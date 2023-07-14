@@ -3,7 +3,7 @@
 The project consists of 3 main folders: 
 01-db-scripts: It is the file that contains the SQL files to create the database of the project.
 02-backend: It is the folder where the Java spring boot files are located.
-03-frontend: It is the folder where Angular source codes are located.
+03-frontend: It is the folder where Angular source codes are located.     
 
 ## Running the application
 To run the project locally, the database is first created by running existing scripts. Then, on the backend, the Spring Boot application is run with the Java IDE. Finally, the frontend application is run with Angular CLI.
